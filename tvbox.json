@@ -4,10 +4,6 @@
         {
             "url": "https://yingmiwo.me/api/tvBox/config",
             "name": "👖影迷窝"
-        },
-        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json",
-            "name": "👖乐哥短剧"
         }
     ]
 }
